@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+  
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.heading > h1, h2 {
+    margin: 0;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
